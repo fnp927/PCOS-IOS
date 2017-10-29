@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/mitli/Desktop/DS.Project/wkTest/build/Debug-iphoneos/Alamofire/Alamofire.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/mitli/Desktop/DS.Project/wkTest/build/Pods.build/Debug-iphoneos/Alamofire.build/unextended-module.modulemap',
+    }]
+  }]
+}
